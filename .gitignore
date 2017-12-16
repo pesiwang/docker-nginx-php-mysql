@@ -18,3 +18,8 @@ nbproject/
 
 # data
 data/
+
+
+#ssl
+etc/ssl/
+
